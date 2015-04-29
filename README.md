@@ -1,7 +1,7 @@
-#  JSP 中文版
+#  Spring 中文版
 
 官方英文原版：   
-http://www.tutorialspoint.com/jsp/jsp_writing_filters.htm
+http://www.tutorialspoint.com/spring/index.htm
 ## 目的
 
 翻译官方文档，目录见文件 [TOC.md](TOC.md)
